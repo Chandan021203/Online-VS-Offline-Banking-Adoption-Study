@@ -1,1 +1,7 @@
 
+scikit-learn
+seaborn
+pandas
+streamlit
+plotly
+openpyxl
